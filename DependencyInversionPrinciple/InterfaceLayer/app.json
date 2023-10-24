@@ -1,0 +1,16 @@
+{
+  "id": "64ccaf60-9a1f-4b6f-a30f-1b1bacd422d5",
+  "name": "InterfaceLayer",
+  "publisher": "PatrickSchiefer",
+  "version": "1.0.0.0",
+  "idRanges": [
+    {
+      "from": 50050,
+      "to": 50099
+    }
+  ],
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

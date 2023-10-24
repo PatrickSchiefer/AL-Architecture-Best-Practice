@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "SalesApp"
+		},
+		{
+			"path": "Price"
+		},
+		{
+			"path": "Libraries"
+		},
+		{
+			"path": "InterfaceLayer"
+		}
+	],
+	"settings": {}
+}

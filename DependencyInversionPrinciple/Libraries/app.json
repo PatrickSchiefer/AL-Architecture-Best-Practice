@@ -1,0 +1,25 @@
+{
+  "id": "e3caba63-19ba-40fc-b3ea-e1ba21b194ff",
+  "name": "Libraries",
+  "publisher": "PatrickSchiefer",
+  "version": "1.0.0.0",
+  "dependencies": [
+    {
+      "id": "64ccaf60-9a1f-4b6f-a30f-1b1bacd422d5",
+      "name": "InterfaceLayer",
+      "publisher": "PatrickSchiefer",
+      "version": "1.0.0.0"
+    }
+  ],
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50049
+    }
+  ],
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
