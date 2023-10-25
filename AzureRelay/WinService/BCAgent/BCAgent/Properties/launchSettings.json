@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BCAgent": {
+      "commandName": "Project",
+      "commandLineArgs": "-namespace:best-practice.servicebus.windows.net -connectionname:directions -keyname:mainkey -key:sWRtpgdkIiokOuIJmRbe10nRI6E2O1ThO+ARmIQVspk="
+    }
+  }
+}
