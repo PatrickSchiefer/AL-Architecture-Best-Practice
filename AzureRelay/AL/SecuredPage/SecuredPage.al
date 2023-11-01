@@ -3,7 +3,25 @@
     PageType = Card;
     ApplicationArea = All;
     UsageCategory = Administration;
+    SourceTable = Item;
 
+    layout
+    {
+        area(Content)
+        {
+            repeater(Repeater)
+            {
+                field(No; Rec."No.")
+                {
+                    ApplicationArea = All;
+                }
+                field(Description; Rec.Description)
+                {
+                    ApplicationArea = All;
+                }
+            }
+        }
+    }
 
     trigger OnOpenPage()
     var

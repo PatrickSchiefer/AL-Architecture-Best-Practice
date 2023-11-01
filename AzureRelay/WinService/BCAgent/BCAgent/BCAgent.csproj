@@ -10,10 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="..\BCAgentCommon\BCAgentCommon.csproj" />
     <ProjectReference Include="..\BCAgentRequestDispatcher\BCAgentRequestDispatcher.csproj" />
-    <ProjectReference Include="..\Plugins\CalculatorPlugin\CalculatorPlugin.csproj" />
-    <ProjectReference Include="..\Plugins\FileSystemPlugin\FileSystemPlugin.csproj" />
     <ProjectReference Include="..\Plugins\Fingerprint\Fingerprint.csproj" />
-    <ProjectReference Include="..\Plugins\HelloWorldPlugin\HelloWorldPlugin.csproj" />
   </ItemGroup>
 
   <ItemGroup>
