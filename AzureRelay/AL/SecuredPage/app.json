@@ -1,7 +1,7 @@
 {
   "id": "3e2f194d-dc2a-4a72-983f-5c2c054fc2d0",
   "name": "SecuredPage",
-  "publisher": "Default publisher",
+  "publisher": "PatrickSchiefer",
   "version": "1.0.0.0",
   "dependencies": [
     {
